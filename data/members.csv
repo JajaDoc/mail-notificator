@@ -1,0 +1,8 @@
+﻿email,employee_id,last_name,first_name,last_name_kana,first_name_kana,company_office,company_department
+iwasaki.makoto@example.com,00000,岩崎,誠,イワサキ,マコト,本社,営業部
+hagiwara.akitaka@example.com,00001,萩原,章享,ハギワラ,アキタカ,本社,営業部
+kato.takashi@example.com,00002,加藤,隆,カトウ,タカシ,本社,営業部
+sugiyama.hayato@example.com,00003,杉山,隼人,スギヤマ,ハヤト,本社,開発部
+kawai.daisuke@example.com,00004,河合,大介,カワイ,ダイスケ,大阪支社,営業部
+okawa.keiichi@example.com,00005,大川,恵一,オオカワ,ケイイチ,大阪支社,開発部
+kudo.shinichi@example.com,00006,工藤,新一,クドウ,シンイチ,本社,開発部

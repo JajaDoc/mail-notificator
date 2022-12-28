@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyocr = "*"
+pyside2 = "*"
+pyqt5 = "*"
+pyside6 = "*"
+qimage2ndarray = "*"
+ginza = "*"
+ja-ginza = "*"
+jupyter = "*"
+google-cloud-vision = "*"
+opencv-contrib-python = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

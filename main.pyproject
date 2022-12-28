@@ -1,0 +1,3 @@
+{
+    "files": ["ui/qml/CameraPage.qml","ui/qml/Constants.qml","ui/qml/Main.qml","ui/qml/SendMessageView.qml","ui/qml/MembersPage.qml","ui/qml/ResultPage.qml","main.py"]
+}
